@@ -10,10 +10,10 @@
 | @Servuc      | Thomas    | SELLE    |
 |@omar2000ye   | Mohammed  | AL-AGEL  |
 | @youness     | Youness   | Khater   |
-|@XavierDEBUF  |Xavier    | DEBUF    |
+|@XavierDEBUF  |Xavier     | DEBUF    |
 | @batibatou   | Côme      | Thibault |
 |@elkhalloukisara|Sara|EL KHALLOUKI   |
 | @IsraSmida   | Isra      | Smida    |
 | @Tomelon     | Tommy     | Alexandre|
 |@kradwane     | Radhouane | KORCHID  |
-|@youssefkacimi| youssef   | kacimi   |
+|@sabribrk     | Sabri     | BERKANE  |
