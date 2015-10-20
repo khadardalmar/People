@@ -3,6 +3,7 @@
 
 | github login | Firstname | Lastname |
 | ------------ | --------- | -------- |
+| @oth1113     | Othmane    | KASSOURI|
 | @barbaluc    | Lucas     | Barbay   |
 | @pigne       | Yoann     | Pigné    |
 | @manCity11   | Inthalak  | Sirasa   |
@@ -13,4 +14,3 @@
 |@elkhalloukisara|Sara|EL KHALLOUKI   |
 | @IsraSmida   | Isra      | Smida    |
 | @Tomelon     | Tommy     | Alexandre|
-| @oth1113     | Othmane    | KASSOURI|
