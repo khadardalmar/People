@@ -3,6 +3,7 @@
 
 | github login | Firstname | Lastname |
 | ------------ | --------- | -------- |
+| @tarikbellarabi    | Tarik     | Bellarabi   |
 | @barbaluc    | Lucas     | Barbay   |
 | @pigne       | Yoann     | Pigné    |
 | @manCity11   | Inthalak  | Sirasa   |
