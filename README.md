@@ -3,6 +3,9 @@
 
 | github login | Firstname | Lastname |
 | ------------ | --------- | -------- |
+<<<<<<< HEAD
+| @tarikbellarabi    | Tarik     | Bellarabi   |
+| @oth1113     | Othmane    | KASSOURI|
 | @barbaluc    | Lucas     | Barbay   |
 | @pigne       | Yoann     | Pigné    |
 | @manCity11   | Inthalak  | Sirasa   |
