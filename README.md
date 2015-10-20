@@ -7,7 +7,6 @@
 | @pigne       | Yoann     | Pigné    |
 | @manCity11   | Inthalak  | Sirasa   |
 | @kev-15      | Kévin     | Wattebled|
-|@elkhalloukisara|EL KHALLOUKI|Sara   |
 | @Servuc      | Thomas    | SELLE    |
 |@omar2000ye   | Mohammed  | AL-AGEL  |
 | @youness     | Youness   | Khater   |
